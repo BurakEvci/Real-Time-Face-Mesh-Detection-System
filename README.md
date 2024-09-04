@@ -33,3 +33,6 @@ Position Extraction: Landmark coordinates are extracted and can be used for furt
 Performance Monitoring: The FPS value is displayed to monitor the system’s real-time performance.
 ## Use Case
 This project can be used in applications such as facial recognition, augmented reality, emotion detection, or any other scenario that requires detailed facial landmark detection and tracking. It is ideal for developers looking to create interactive, face-driven applications.
+
+Note: I do not own the copyrights of this project.(youtube @murtazasworkshop) It is for learning purposes only.
+
